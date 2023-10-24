@@ -34,6 +34,7 @@ in
       ghc902 = "Cabal_3_4_1_0";
       ghc927 = "Cabal_3_6_3_0";
       ghc962 = "Cabal_3_10_1_0";
+      ghc981 = "Cabal_3_10_2_0";
     }."${compiler}"),
 
   # Use `integer-simple` instead of `integer-gmp` to avoid linking in
